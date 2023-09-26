@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pyhton,django,nodejs,github,javascript,typescript,express,postgres,firebase,mongodb,php,laravel" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,git,aws,azure,jenkins,docker" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,flask,html,css,vscode,git,aws,azure,jenkins,docker" />
 </div>
 
 <br/>
@@ -54,7 +54,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=hamzakhalil90&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzakhalil90&show_icons=true&locale=en&layout=compact" alt="hamzakhalil90" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzakhalil90&show_icons=true&locale=en" alt="hamzakhalil90" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzakhalil90&" alt="hamzakhalil90" /></p>
 </div>
 
 <br/><br/>
