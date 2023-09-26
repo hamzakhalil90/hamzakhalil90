@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17361
-Fork on GitHub5007
+
 <h1 align="center">Hi 👋, I'm Hamza Khalil</h1>
 <h3 align="center">A passionate full stack developer from pakistan</h3>
 
