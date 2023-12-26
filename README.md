@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Redis, Golang**
 
- 💬 Ask me about **Python, Django, Djano rest, Databases, Automation**
+ 💬 Ask me about **Python, Django, Django rest, Databases, Automation**
 
  ⚡ Fun fact **Eat, Code, Repeat...**
  
